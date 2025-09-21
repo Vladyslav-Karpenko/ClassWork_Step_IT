@@ -1,0 +1,21 @@
+ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+/* h2 {
+    font-size: 24px;
+    color: darkviolet;
+}
+p {
+    color: blue;
+    border: 5px double rgb(174, 0, 255);
+}
+section {
+    background-color: greenyellow;
+    background: greenyellow;
+} */
