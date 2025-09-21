@@ -1,0 +1,35 @@
+.btn {
+  border: 1px dotted blue;
+  border-radius: 10px;
+  color: blue;
+  background-color: lightblue;
+  font-size: 24px;
+  cursor: pointer;
+}
+.btn:hover,
+.btn:focus,
+btn:active {
+  border: 3px solid pink;
+  background-color: pink;
+  font-size: 36px;
+  color: white;
+}
+.btn2:hover {
+  border: 3px solid green;
+  background-color: green;
+  font-size: 14px;
+  color: black;
+}
+.about-us {
+  color: purple;
+  padding: 10px;
+}
+.btn-box {
+  width: 150px;
+  height: 50px;
+  border: 1px solid red;
+  padding: 20px;
+  margin: 25px;
+  border-right: 2px solid blue;
+  border-bottom: 3px solid yellow;
+}
